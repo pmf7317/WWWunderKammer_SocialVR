@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Space.unity
     guid: caed008edd62fae48b0f83ef3b63cf84
+  - enabled: 1
+    path: Assets/Scenes/Portals.unity
+    guid: f16135a123263aa41aba01dfc20da5e4
+  - enabled: 1
+    path: Assets/Scenes/Artifacts.unity
+    guid: aaaf22330f02a7d4a93335ba5b5cf7f4
   m_configObjects: {}
