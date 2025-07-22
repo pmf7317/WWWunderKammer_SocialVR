@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 45dc156b5c58908488855347fbfaa9a7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2303
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf9024fb4d84e04692d7b8dcd0a899c
+      internalID: -664274192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2303
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533995d2bd6406e48bc52ed4df28b9f7
+      internalID: 1375914607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2303
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c76229b27b81a14c8e563bdfce7e3fb
+      internalID: -1903951772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2303
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f084088ee120e48843577e97661a16
+      internalID: 778239634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2303
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0af0af520aaf8b4f92dc069500d08b8
+      internalID: 1792719866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1974
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d44f1a4659b48d43bade2748168e9b2
+      internalID: 1720695047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1974
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df73f0167dee83429996db44b1a2a34
+      internalID: 1366475750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1974
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd17cb37fa1e6a45aaede9354d9ae16
+      internalID: -1224922667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1974
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9563439bda232704e9999ca6addd5caa
+      internalID: 1925273796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1974
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c59d9bbfa5a92241a133b8168b2be0b
+      internalID: 1062420295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1645
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d410cbac8488047ab206253a67e8a5
+      internalID: -342676888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1645
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17c0ccfe584c14a8a05c11ba94a9f1
+      internalID: 1842436177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1645
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f00da07165dd9e4fb2f686118aab262
+      internalID: -1317173701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1645
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2ebf9ede3af7b4aa26444b2a145512
+      internalID: 1258396750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1645
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ced49536145d45bc4062769894a17
+      internalID: 1572448314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1316
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348790aa68faffc43a2dcd5b806eb9ce
+      internalID: 1202013566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1316
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7588fb3a895ba814fa57cf60961407ef
+      internalID: -2010835471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1316
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f998cf7a2533741a9d1a6dae5050f9
+      internalID: 1727296583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1316
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c7eccd6bda6724aa628ed15e06705f
+      internalID: -668847890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1316
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f11dcdc1d8c104ba7fe6bae4d522df
+      internalID: -1139705642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 987
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e929637d7718740a4c950937db6105
+      internalID: 101453232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 987
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625602ccc926ac34a9516f180329f71a
+      internalID: -171282912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 987
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aafa5baa4f7a3546be8e90a316c53d8
+      internalID: 950617394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 987
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3fd3759612df9045ab35f939fb726ec
+      internalID: 600022440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 987
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0bff020fcc632e438b442f6669375dd
+      internalID: 101142517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 658
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687ba33e3aa9ff549977af2f65a48a6d
+      internalID: 1608281862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 658
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf6d4316df4a5742b2ba6fd6ff40567
+      internalID: -426670518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 658
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f487c3f621531084ca593c46fd9cf58e
+      internalID: 502099170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 658
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7400036ebfff2344ab001eb96c968534
+      internalID: -599178284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 658
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c7e43ceeafad545b1f05b23cc507fe
+      internalID: 1454885050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a67e57a5fc79443805117d7f03501a
+      internalID: -242095931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 329
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16290a6d972a124486fd91524ae19ab
+      internalID: -42069500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 329
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772dafa4b1cb5eb4aaad5d2eaed8deff
+      internalID: 2081061720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 329
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1782c49d219ae4ab24302fb79bef06
+      internalID: -876596553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 329
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d88a7696a80388439e5c5cfd419067a
+      internalID: 2063545471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f3114ffa9ac346a06f6ed19a4dc32
+      internalID: -1911517599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_PoliticsHistory-SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d78823f396dc60458a44bc544590c43
+      internalID: 66706711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 864226f9ce47d7c4da679c9af36b435c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MainCab_PoliticsHistory-SpriteSheet_0: -664274192
+      MainCab_PoliticsHistory-SpriteSheet_1: 1375914607
+      MainCab_PoliticsHistory-SpriteSheet_10: -342676888
+      MainCab_PoliticsHistory-SpriteSheet_11: 1842436177
+      MainCab_PoliticsHistory-SpriteSheet_12: -1317173701
+      MainCab_PoliticsHistory-SpriteSheet_13: 1258396750
+      MainCab_PoliticsHistory-SpriteSheet_14: 1572448314
+      MainCab_PoliticsHistory-SpriteSheet_15: 1202013566
+      MainCab_PoliticsHistory-SpriteSheet_16: -2010835471
+      MainCab_PoliticsHistory-SpriteSheet_17: 1727296583
+      MainCab_PoliticsHistory-SpriteSheet_18: -668847890
+      MainCab_PoliticsHistory-SpriteSheet_19: -1139705642
+      MainCab_PoliticsHistory-SpriteSheet_2: -1903951772
+      MainCab_PoliticsHistory-SpriteSheet_20: 101453232
+      MainCab_PoliticsHistory-SpriteSheet_21: -171282912
+      MainCab_PoliticsHistory-SpriteSheet_22: 950617394
+      MainCab_PoliticsHistory-SpriteSheet_23: 600022440
+      MainCab_PoliticsHistory-SpriteSheet_24: 101142517
+      MainCab_PoliticsHistory-SpriteSheet_25: 1608281862
+      MainCab_PoliticsHistory-SpriteSheet_26: -426670518
+      MainCab_PoliticsHistory-SpriteSheet_27: 502099170
+      MainCab_PoliticsHistory-SpriteSheet_28: -599178284
+      MainCab_PoliticsHistory-SpriteSheet_29: 1454885050
+      MainCab_PoliticsHistory-SpriteSheet_3: 778239634
+      MainCab_PoliticsHistory-SpriteSheet_30: -242095931
+      MainCab_PoliticsHistory-SpriteSheet_31: -42069500
+      MainCab_PoliticsHistory-SpriteSheet_32: 2081061720
+      MainCab_PoliticsHistory-SpriteSheet_33: -876596553
+      MainCab_PoliticsHistory-SpriteSheet_34: 2063545471
+      MainCab_PoliticsHistory-SpriteSheet_35: -1911517599
+      MainCab_PoliticsHistory-SpriteSheet_36: 66706711
+      MainCab_PoliticsHistory-SpriteSheet_4: 1792719866
+      MainCab_PoliticsHistory-SpriteSheet_5: 1720695047
+      MainCab_PoliticsHistory-SpriteSheet_6: 1366475750
+      MainCab_PoliticsHistory-SpriteSheet_7: -1224922667
+      MainCab_PoliticsHistory-SpriteSheet_8: 1925273796
+      MainCab_PoliticsHistory-SpriteSheet_9: 1062420295
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1169 @@
+fileFormatVersion: 2
+guid: fae9b17ffb919304088e7f5927b3000c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ab971923470049a946e1b60d674ae
+      internalID: -1651637039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1760
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0354ee17b6bd6864d8f9d3742795ae59
+      internalID: -1020627880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1760
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33f3362bfeac354bbac4becb78f07d5
+      internalID: 1047746657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1760
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96addbe984105a445b65283a0e9363ac
+      internalID: 244826044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1760
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60121f133bf77246a170bb0e85a034c
+      internalID: -1749036561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1760
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ddff4431652f946b2816691e42684e
+      internalID: -1588113360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1760
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be420729efbd83458133c7d565f66c9
+      internalID: 1074187106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1760
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ccc7476fc05eb4c9a8aabb64ff5c41
+      internalID: -827237337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1760
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7618498ddf32349b9123d408ad900e
+      internalID: 366538022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073a127b01dcfac46bb6d834ca17affd
+      internalID: 241063730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1320
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcaf888670b5b346bde13ac71b2882b
+      internalID: -1787111751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1320
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455f06feb83399a46a2a689d743c0db9
+      internalID: -1385265754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1320
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666a97f0001ad8b409e95921f72c1d97
+      internalID: 2143562609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1320
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948eb297067a9b34a83fc617fe960dfa
+      internalID: -9906448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1320
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2883a82eddffdd41b3937e9e42f0453
+      internalID: 1624961153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1320
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ffc0c04d651e54baab579f329c6bbd
+      internalID: 1106763436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1320
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7d12c392c4f174c815eef2eb3d27c8
+      internalID: 1299711735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 1320
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b69f12a12b6c904cbc6e3fe853a916d
+      internalID: 580406657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf8160d94304844886c677ecdb037b0
+      internalID: 1473598288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 880
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a0ebaad9e11d94481c8ebddd46d744
+      internalID: 1504024956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 880
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8407e2c6af694d441a1e0f164e45e905
+      internalID: 1329282155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 880
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed5b45c245b6834a8b5e8d38766d58b
+      internalID: -406017235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 880
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a44b2bb6c002184983b3b84c05710b0
+      internalID: 1157390918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 880
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1c83d7e6175e34e829e09a3e3efc63
+      internalID: -1437584262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 880
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effd98d271afbbd4bbd7482aecd40d9e
+      internalID: 1085686400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 880
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e3ce0e6f41b074a88736d3c1aaa3c4
+      internalID: 1132795020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 880
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf10d4573d032084a8a8e0a6fba7b4ff
+      internalID: -1322763014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1011a907acfe36048b48b9683593011d
+      internalID: 1655907988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 440
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286087cc5c62f934cbb69765b4858dc4
+      internalID: 2812392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 440
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb28847eb2d594b8fbdc366fab1b35
+      internalID: 1581290986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 440
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ea041b87d5d1a489b63436b79a8788
+      internalID: -396534010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 440
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099de583b8c9d2e4c8392d4630359b61
+      internalID: -455186828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 440
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0d0375882ea4441889725afe4fd3a7
+      internalID: 130027387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 440
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8e3e0a6fb1a9b4b99a01935f6c29fc
+      internalID: -1142304868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 440
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c4fbd1da494f44bd4ec9d8116e48e
+      internalID: 945626180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 440
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605003554d571a49805fd399f63745c
+      internalID: -753331200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa309389160bb498d50a10d24e442b
+      internalID: -816300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e24832ca4b014d4db3d820889d03c74
+      internalID: 157718283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bf039b60ea51947a630136f567256a
+      internalID: -2074462596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 0
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5c5b408975ab24bbf4624b38d79646
+      internalID: -434886434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2219459c4285c2418d7c02ca576552f
+      internalID: 241845869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09524eeb55acc074daa0ad5c2b326a4b
+      internalID: -1732153906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 0
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df587a1aed46bea468e1e0593ea8019b
+      internalID: 515571802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 0
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f6bcbef698054ba72fb9881975dc2
+      internalID: 2085915341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyFemales-SpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 3456
+        y: 0
+        width: 432
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccda4749db9c2f42a6c096cf0059b2b
+      internalID: 1821191497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e2f6c4ae20ac36847afe3da799c4d8e6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MainCab_comedyFemales-SpriteSheet_0: -1651637039
+      MainCab_comedyFemales-SpriteSheet_1: -1020627880
+      MainCab_comedyFemales-SpriteSheet_10: -1787111751
+      MainCab_comedyFemales-SpriteSheet_11: -1385265754
+      MainCab_comedyFemales-SpriteSheet_12: 2143562609
+      MainCab_comedyFemales-SpriteSheet_13: -9906448
+      MainCab_comedyFemales-SpriteSheet_14: 1624961153
+      MainCab_comedyFemales-SpriteSheet_15: 1106763436
+      MainCab_comedyFemales-SpriteSheet_16: 1299711735
+      MainCab_comedyFemales-SpriteSheet_17: 580406657
+      MainCab_comedyFemales-SpriteSheet_18: 1473598288
+      MainCab_comedyFemales-SpriteSheet_19: 1504024956
+      MainCab_comedyFemales-SpriteSheet_2: 1047746657
+      MainCab_comedyFemales-SpriteSheet_20: 1329282155
+      MainCab_comedyFemales-SpriteSheet_21: -406017235
+      MainCab_comedyFemales-SpriteSheet_22: 1157390918
+      MainCab_comedyFemales-SpriteSheet_23: -1437584262
+      MainCab_comedyFemales-SpriteSheet_24: 1085686400
+      MainCab_comedyFemales-SpriteSheet_25: 1132795020
+      MainCab_comedyFemales-SpriteSheet_26: -1322763014
+      MainCab_comedyFemales-SpriteSheet_27: 1655907988
+      MainCab_comedyFemales-SpriteSheet_28: 2812392
+      MainCab_comedyFemales-SpriteSheet_29: 1581290986
+      MainCab_comedyFemales-SpriteSheet_3: 244826044
+      MainCab_comedyFemales-SpriteSheet_30: -396534010
+      MainCab_comedyFemales-SpriteSheet_31: -455186828
+      MainCab_comedyFemales-SpriteSheet_32: 130027387
+      MainCab_comedyFemales-SpriteSheet_33: -1142304868
+      MainCab_comedyFemales-SpriteSheet_34: 945626180
+      MainCab_comedyFemales-SpriteSheet_35: -753331200
+      MainCab_comedyFemales-SpriteSheet_36: -816300
+      MainCab_comedyFemales-SpriteSheet_37: 157718283
+      MainCab_comedyFemales-SpriteSheet_38: -2074462596
+      MainCab_comedyFemales-SpriteSheet_39: -434886434
+      MainCab_comedyFemales-SpriteSheet_4: -1749036561
+      MainCab_comedyFemales-SpriteSheet_40: 241845869
+      MainCab_comedyFemales-SpriteSheet_41: -1732153906
+      MainCab_comedyFemales-SpriteSheet_42: 515571802
+      MainCab_comedyFemales-SpriteSheet_43: 2085915341
+      MainCab_comedyFemales-SpriteSheet_44: 1821191497
+      MainCab_comedyFemales-SpriteSheet_5: -1588113360
+      MainCab_comedyFemales-SpriteSheet_6: 1074187106
+      MainCab_comedyFemales-SpriteSheet_7: -827237337
+      MainCab_comedyFemales-SpriteSheet_8: 366538022
+      MainCab_comedyFemales-SpriteSheet_9: 241063730
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

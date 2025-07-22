@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 49d5406f079c33347bbc6c43e99103f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2610
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74fc005b1dcd14388162ae90d646e3
+      internalID: 1724393025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2610
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e4043b1450d174b9014a9a350de0ed
+      internalID: 268573582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2610
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9820c16d79c4c31438f4bc82135c8aac
+      internalID: -2100418540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2610
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf54efe509e486848b51b05c289f1d6c
+      internalID: 1411511325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2610
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8269435a11db0834f8d2e287946dd55d
+      internalID: -506540405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2610
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c7d196628c065488f8fc6b8bb608f2
+      internalID: 1626209749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2175
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e541f2b90e24984b99eb65f1799449a
+      internalID: 1879251896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2175
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf085612c467914e8c86cf9a40c185e
+      internalID: 271879716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 2175
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8da08c219769941a5efb6a5ca54850
+      internalID: 527951884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 2175
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798efdda2f26f7440ad82fdc2a82e4e1
+      internalID: 1491364547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 2175
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236b05575a104be46ab1a9c31b084147
+      internalID: 1981319344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2175
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b248fab24f76d044a648ab904a96eb6
+      internalID: -1197362197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1740
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f462827844ca0e4c9f134e8ba94429c
+      internalID: -2095582069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1740
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea19a0d16522444e9c9b1958859fe8d
+      internalID: 206941902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1740
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf1daa2607ecc46941c13e6fbaa5a4
+      internalID: -1117014726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1740
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf30647caf88f934cba4d3c5d9094fd8
+      internalID: -273878780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1740
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0418fb718dd294b8de2393a49640f0
+      internalID: -1703591793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1740
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429cf2fb66ce3414bbf3fcc6a33d82e7
+      internalID: -1747971513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1305
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f603e2661780d6d46bb7c82faf58f0d8
+      internalID: -1551692778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1305
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf829ae835e87f44ac57833d23cec56
+      internalID: 682876663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1305
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b122a851274ba6b4eb768d8985fff035
+      internalID: 2000695379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1305
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0444472f89b32e44da2f339c0ad50260
+      internalID: -1423276431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 1305
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd470c3143dbacb44bf6a6ca729cb285
+      internalID: -8030242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1305
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e7c33f26155b546b91de65d3b93a90
+      internalID: 1272596617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 870
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07391b2aa31a15b45947993d3a17df33
+      internalID: -1632599928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 870
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe6fddee18ef6c45a11753ad364e524
+      internalID: 328496804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 870
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a566936991f98ef41b4b2575dd15de6b
+      internalID: -827667205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 870
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26796c09754d2ee43b28471448d35b96
+      internalID: 2066101814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 870
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1cf9de03aaa894ca467d79c9a8b027
+      internalID: 1134640608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 870
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd2d34179be96f47afb9e61c98c16c1
+      internalID: -1547087382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 435
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c492572606e1149ba93383996e40b8
+      internalID: -1138841720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 435
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f333ba25b6cd847bd44e9333554912
+      internalID: -138411429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 435
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f8ccfc367bc0541b6c2685e4793028
+      internalID: -1551972880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 435
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073fd2904b74c1240a2614d89f40fdd3
+      internalID: -1273615235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 435
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc75d636a89db4d4cb805191f610046b
+      internalID: -1136731786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 435
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a73f7f937ffe0a4cb7baf1330dd7105
+      internalID: 692534961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_comedyGeneralSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 432
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2d6c8892b9c624e8471acc35185c2b
+      internalID: -589566226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0f4698713525690498aa8c6d6a6c191b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MainCab_comedyGeneralSpriteSheet_0: 1724393025
+      MainCab_comedyGeneralSpriteSheet_1: 268573582
+      MainCab_comedyGeneralSpriteSheet_10: 1981319344
+      MainCab_comedyGeneralSpriteSheet_11: -1197362197
+      MainCab_comedyGeneralSpriteSheet_12: -2095582069
+      MainCab_comedyGeneralSpriteSheet_13: 206941902
+      MainCab_comedyGeneralSpriteSheet_14: -1117014726
+      MainCab_comedyGeneralSpriteSheet_15: -273878780
+      MainCab_comedyGeneralSpriteSheet_16: -1703591793
+      MainCab_comedyGeneralSpriteSheet_17: -1747971513
+      MainCab_comedyGeneralSpriteSheet_18: -1551692778
+      MainCab_comedyGeneralSpriteSheet_19: 682876663
+      MainCab_comedyGeneralSpriteSheet_2: -2100418540
+      MainCab_comedyGeneralSpriteSheet_20: 2000695379
+      MainCab_comedyGeneralSpriteSheet_21: -1423276431
+      MainCab_comedyGeneralSpriteSheet_22: -8030242
+      MainCab_comedyGeneralSpriteSheet_23: 1272596617
+      MainCab_comedyGeneralSpriteSheet_24: -1632599928
+      MainCab_comedyGeneralSpriteSheet_25: 328496804
+      MainCab_comedyGeneralSpriteSheet_26: -827667205
+      MainCab_comedyGeneralSpriteSheet_27: 2066101814
+      MainCab_comedyGeneralSpriteSheet_28: 1134640608
+      MainCab_comedyGeneralSpriteSheet_29: -1547087382
+      MainCab_comedyGeneralSpriteSheet_3: 1411511325
+      MainCab_comedyGeneralSpriteSheet_30: -1138841720
+      MainCab_comedyGeneralSpriteSheet_31: -138411429
+      MainCab_comedyGeneralSpriteSheet_32: -1551972880
+      MainCab_comedyGeneralSpriteSheet_33: -1273615235
+      MainCab_comedyGeneralSpriteSheet_34: -1136731786
+      MainCab_comedyGeneralSpriteSheet_35: 692534961
+      MainCab_comedyGeneralSpriteSheet_36: -589566226
+      MainCab_comedyGeneralSpriteSheet_4: -506540405
+      MainCab_comedyGeneralSpriteSheet_5: 1626209749
+      MainCab_comedyGeneralSpriteSheet_6: 1879251896
+      MainCab_comedyGeneralSpriteSheet_7: 271879716
+      MainCab_comedyGeneralSpriteSheet_8: 527951884
+      MainCab_comedyGeneralSpriteSheet_9: 1491364547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

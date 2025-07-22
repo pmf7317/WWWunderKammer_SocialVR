@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: 9e4287d49c5fff9449662e128282cc8f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bad0a110cae74049a6a244941564aae
+      internalID: -903638643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2112
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba8cc572dbe8e842b545e394abd7883
+      internalID: 266262080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2112
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b249fe8a9744a4c9ca0dce1dfd60a7
+      internalID: -1180895387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2112
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3e7858e127490479ec8d432af757bb
+      internalID: -906828429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2112
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deda3b7607f540d49989ce0d8331091e
+      internalID: 918132660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5520256c61cf24a8763e8fa0cdcb88
+      internalID: -59269889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1692
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28f4de4ea5a11a4da6645f883859756
+      internalID: 1930358220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1692
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9ba8abec6b5734992a927b0198dd78
+      internalID: 836013415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1692
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd06135b168581448202c51000327bd
+      internalID: -171420317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1692
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d9194a88fe5aa47a37827acc17bce3
+      internalID: 312852130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0ed080af343774d8aeaa66aaac5d63
+      internalID: 826270340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1272
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b3caf0294398442bd7bd85c6d2b2c1
+      internalID: 1920067282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1272
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1d0d1e734f10949af07f415699d679
+      internalID: 1461876151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1272
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08124d0a28314e944b5ecb2cfce8f9d4
+      internalID: 1845056793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1272
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382f2f4e3ba53044ea2d08db8f1a85fd
+      internalID: -644869414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276c0e745bb5a3542b7f7a00890fed83
+      internalID: 238141013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 852
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23f2bf3566e434bbd752882720ef3a
+      internalID: -1478629931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 852
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a0a21cdd355b0428ac8bd6f116faf4
+      internalID: 557181351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 852
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f13be4a6015764b9fc7c914a7cc36f
+      internalID: 1034291805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 852
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c76e157961e50449490e1cfa95b2ac
+      internalID: 2055777940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0b61aed72a5cc48bf54aca278daf9d
+      internalID: -804115996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 432
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f948ce8a6dee9e40ae0ef8c2a88ae8c
+      internalID: 190287569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 432
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a581861ff9c0346b7ebc431a30928a
+      internalID: 235894325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 432
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5ee16b666ebf489c32da10bca6e08
+      internalID: -34324252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 432
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6c7fe79ac7a1e44bf658b042a9c9fb
+      internalID: 449144574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b70845a72ef5446a639714bcb67565
+      internalID: -1197873691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 12
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b048edd8baef644921e2589a788989
+      internalID: 1913625032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 12
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b1078686a0cf469d0a778b1c2881b
+      internalID: -870969304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 12
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cd1b1501c1bf743ac38e4bfb75804d
+      internalID: 142213289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_EndangeredSpecies-SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 12
+        width: 600
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f747fb2fc2c5e1429aed94db0e93836
+      internalID: 1028553958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4d6de05438ce6924c87378d8b155c807
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MainCab_EndangeredSpecies-SpriteSheet_0: -903638643
+      MainCab_EndangeredSpecies-SpriteSheet_1: 266262080
+      MainCab_EndangeredSpecies-SpriteSheet_10: 826270340
+      MainCab_EndangeredSpecies-SpriteSheet_11: 1920067282
+      MainCab_EndangeredSpecies-SpriteSheet_12: 1461876151
+      MainCab_EndangeredSpecies-SpriteSheet_13: 1845056793
+      MainCab_EndangeredSpecies-SpriteSheet_14: -644869414
+      MainCab_EndangeredSpecies-SpriteSheet_15: 238141013
+      MainCab_EndangeredSpecies-SpriteSheet_16: -1478629931
+      MainCab_EndangeredSpecies-SpriteSheet_17: 557181351
+      MainCab_EndangeredSpecies-SpriteSheet_18: 1034291805
+      MainCab_EndangeredSpecies-SpriteSheet_19: 2055777940
+      MainCab_EndangeredSpecies-SpriteSheet_2: -1180895387
+      MainCab_EndangeredSpecies-SpriteSheet_20: -804115996
+      MainCab_EndangeredSpecies-SpriteSheet_21: 190287569
+      MainCab_EndangeredSpecies-SpriteSheet_22: 235894325
+      MainCab_EndangeredSpecies-SpriteSheet_23: -34324252
+      MainCab_EndangeredSpecies-SpriteSheet_24: 449144574
+      MainCab_EndangeredSpecies-SpriteSheet_25: -1197873691
+      MainCab_EndangeredSpecies-SpriteSheet_26: 1913625032
+      MainCab_EndangeredSpecies-SpriteSheet_27: -870969304
+      MainCab_EndangeredSpecies-SpriteSheet_28: 142213289
+      MainCab_EndangeredSpecies-SpriteSheet_29: 1028553958
+      MainCab_EndangeredSpecies-SpriteSheet_3: -906828429
+      MainCab_EndangeredSpecies-SpriteSheet_4: 918132660
+      MainCab_EndangeredSpecies-SpriteSheet_5: -59269889
+      MainCab_EndangeredSpecies-SpriteSheet_6: 1930358220
+      MainCab_EndangeredSpecies-SpriteSheet_7: 836013415
+      MainCab_EndangeredSpecies-SpriteSheet_8: -171420317
+      MainCab_EndangeredSpecies-SpriteSheet_9: 312852130
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

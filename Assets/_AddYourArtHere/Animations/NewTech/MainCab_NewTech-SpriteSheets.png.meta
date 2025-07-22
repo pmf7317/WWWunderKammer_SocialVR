@@ -1,0 +1,839 @@
+fileFormatVersion: 2
+guid: ece8c8454807172469321609e25230e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2256
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22b87dc4b225ba4491149afc553a9e9
+      internalID: 2141398544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_1
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2256
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5a3aeb8862be441b040a879069d7a6
+      internalID: -1878751624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2256
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58022d1c991b10b42a6d12e81cb7316f
+      internalID: -56365741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_3
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2256
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cb4780648391b47b7e102c45dc7133
+      internalID: 981080075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_4
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2256
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5395d05c9083b94bae626cc2c56a15f
+      internalID: 1628238592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b4efea9b060de4da3fe61408c19c64
+      internalID: -2064263839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1806
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c1c69b4a96eb243a4d54d97fa475c6
+      internalID: 2101550846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_7
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1806
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a555161d56a641c4d8a9935c69e5d1cc
+      internalID: 1050383448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1806
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2916f70b439f04f8f59e88e6e5eac1
+      internalID: 1719289205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1806
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807496fe7a24f264daffd4cf45a52af6
+      internalID: -1445962622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1356
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a29b13b5969a245aed7b088c35dbe7
+      internalID: 1867513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1356
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd12b6dff8d3f9459a53fb531214645
+      internalID: 1139636274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_12
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1356
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b431df079f5e634ca1b0e03f2c2ab00
+      internalID: 1550547588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_13
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1356
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9158c463964cbc4469576da1b39e75e5
+      internalID: 64846873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1356
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1022d9f44f8097945be47c9da8408826
+      internalID: -324239270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 906
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac91b30ef44377e43a125ac1bd9c125c
+      internalID: 1588701401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_16
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 906
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7b921f4ca00974897031f0ae02abd3
+      internalID: 1378384638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 906
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319fb950f1e8fa941b7b4d7e57357c00
+      internalID: 736434000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 906
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6781db7f77d1e3648a3193c3a5a84eec
+      internalID: 96085219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_19
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 906
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1109018b174204b4dbdb19545659526b
+      internalID: -849430936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d3a7a766d27c84e958a2337b6fa6d5
+      internalID: -542161358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_21
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 456
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f786586e076e141a67548bbbd3f045
+      internalID: 850612599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 456
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb50b44f77d6b4dbec23b3e20420ae
+      internalID: -916603337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_23
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 456
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54c3d4c3f4970f4eb6e36aa17675ba1
+      internalID: -604300169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_24
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 456
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941b8a384957c4c43aed7226d9784918
+      internalID: -553425877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374260a6ce7172842a519fa7a94b9d7a
+      internalID: -1624355933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_26
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 6
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c710520d580ea345ac4011d883b3787
+      internalID: 568052579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_27
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 6
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f561a36aa8db8b840986ccfda70668f7
+      internalID: -1443515157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff7b13f507b0194f84b0e771cb6f75d
+      internalID: -1001610821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCab_NewTech-SpriteSheets_29
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 6
+        width: 480
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20bbd8679e5604345a2c1630868715a3
+      internalID: -1371400798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e67b44972f12b814fbfd92b8d2382188
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MainCab_NewTech-SpriteSheets_0: 2141398544
+      MainCab_NewTech-SpriteSheets_1: -1878751624
+      MainCab_NewTech-SpriteSheets_10: 1867513
+      MainCab_NewTech-SpriteSheets_11: 1139636274
+      MainCab_NewTech-SpriteSheets_12: 1550547588
+      MainCab_NewTech-SpriteSheets_13: 64846873
+      MainCab_NewTech-SpriteSheets_14: -324239270
+      MainCab_NewTech-SpriteSheets_15: 1588701401
+      MainCab_NewTech-SpriteSheets_16: 1378384638
+      MainCab_NewTech-SpriteSheets_17: 736434000
+      MainCab_NewTech-SpriteSheets_18: 96085219
+      MainCab_NewTech-SpriteSheets_19: -849430936
+      MainCab_NewTech-SpriteSheets_2: -56365741
+      MainCab_NewTech-SpriteSheets_20: -542161358
+      MainCab_NewTech-SpriteSheets_21: 850612599
+      MainCab_NewTech-SpriteSheets_22: -916603337
+      MainCab_NewTech-SpriteSheets_23: -604300169
+      MainCab_NewTech-SpriteSheets_24: -553425877
+      MainCab_NewTech-SpriteSheets_25: -1624355933
+      MainCab_NewTech-SpriteSheets_26: 568052579
+      MainCab_NewTech-SpriteSheets_27: -1443515157
+      MainCab_NewTech-SpriteSheets_28: -1001610821
+      MainCab_NewTech-SpriteSheets_29: -1371400798
+      MainCab_NewTech-SpriteSheets_3: 981080075
+      MainCab_NewTech-SpriteSheets_4: 1628238592
+      MainCab_NewTech-SpriteSheets_5: -2064263839
+      MainCab_NewTech-SpriteSheets_6: 2101550846
+      MainCab_NewTech-SpriteSheets_7: 1050383448
+      MainCab_NewTech-SpriteSheets_8: 1719289205
+      MainCab_NewTech-SpriteSheets_9: -1445962622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
